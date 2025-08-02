@@ -1,0 +1,12 @@
+{
+    
+  "parent": "item/generated",
+    "display": {
+      "firstperson_righthand": {
+      "rotation": [0, -85, 25],
+      "translation": [1.04, 3.04, 0.80],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  }
+}
+
